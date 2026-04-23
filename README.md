@@ -37,6 +37,25 @@ This allows the quantum circuit to represent classical data in a higher-dimensio
 
 ## Output
 The model predicts simple XOR-like patterns using quantum-enhanced features.
+---
+##  Quantum Circuit
+
+![Circuit](circuit.png)
+
+This circuit represents a simple Hybrid Quantum-Classical feature encoding pipeline built using Qiskit.
+
+It includes:
+
+Angle Encoding (Ry gates):
+Classical input features are converted into quantum rotation angles.
+Superposition (Hadamard gates):
+Prepares qubits to explore multiple states simultaneously.
+Entanglement (CX gate):
+Captures correlations between input features.
+Measurement:
+Converts quantum states back into classical information for machine learning models.
+
+This structure is a basic example of Quantum machine learning, where quantum circuits are used as feature transformation layers in a classical ML pipeline.
 
 ## Note
 This is an educational/demo project, not a production quantum advantage model.
