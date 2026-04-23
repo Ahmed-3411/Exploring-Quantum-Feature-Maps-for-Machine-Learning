@@ -23,7 +23,7 @@ pip install -r requirements.txt
 python hybrid.py
 
 ```
-## 🔢 Quantum Feature Encoding
+##  Quantum Feature Encoding
 ```
 We use **Angle Encoding** to transform classical data into quantum states.
 
