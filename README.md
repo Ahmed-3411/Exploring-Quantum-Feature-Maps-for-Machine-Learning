@@ -62,7 +62,7 @@ This is an educational/demo project, not a production quantum advantage model.
 
 ---
 
-# 🚫 4. .gitignore
+#  4. .gitignore
 
 ```gitignore id="git1"
 __pycache__/
