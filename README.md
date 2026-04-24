@@ -1,4 +1,4 @@
-#  Hybrid Quantum Machine Learning Dem
+#  Hybrid Quantum Machine Learning Demo
 
 This project demonstrates a simple **Hybrid Quantum-Classical Machine Learning model** using Qiskit and Scikit-learn.
 
