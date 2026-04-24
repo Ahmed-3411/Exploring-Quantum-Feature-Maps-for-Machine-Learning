@@ -10,7 +10,7 @@ We combine:
 This is a basic example of:
 Quantum Machine Learning (QML)
 
-##  Tech Stack
+##  Tech Stac
 - Qiskit
 - Qiskit Aer
 - NumPy
