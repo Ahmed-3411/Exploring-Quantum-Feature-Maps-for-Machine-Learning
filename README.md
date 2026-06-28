@@ -24,7 +24,7 @@ python hybrid.py
 
 ```
 ##  Quantum Feature Encoding
-```
+
 We use **Angle Encoding** to transform classical data into quantum states.
 
 Each input feature is mapped to rotation angles applied on qubits using Ry gates.
@@ -32,7 +32,7 @@ Each input feature is mapped to rotation angles applied on qubits using Ry gates
 Additionally, we introduce entanglement using CX gates to capture correlations between features.
 
 This allows the quantum circuit to represent classical data in a higher-dimensional Hilbert space, which can enhance feature separability in some cases.
-```
+
 ---
 
 ## Output
